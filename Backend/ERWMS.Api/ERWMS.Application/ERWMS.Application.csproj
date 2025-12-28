@@ -11,8 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ERWMS.Application\ERWMS.Application.csproj" />
-    <ProjectReference Include="..\ERWMS.Infrastructure\ERWMS.Infrastructure.csproj" />
+    <ProjectReference Include="..\ERWMS.Domain\ERWMS.Domain.csproj" />
   </ItemGroup>
 
 </Project>

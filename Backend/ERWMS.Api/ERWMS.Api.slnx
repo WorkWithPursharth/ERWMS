@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="ERWMS.Api/ERWMS.Api.csproj" />
+  <Project Path="ERWMS.Application/ERWMS.Application.csproj" />
+  <Project Path="ERWMS.Domain/ERWMS.Domain.csproj" />
+  <Project Path="ERWMS.Infrastructure/ERWMS.Infrastructure.csproj" />
 </Solution>

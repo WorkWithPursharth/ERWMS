@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace ERWMS.Api.Controllers
+namespace ERWMS.Application.Controllers
 {
     [ApiController]
     [Route("[controller]")]

@@ -1,4 +1,4 @@
-namespace ERWMS.Api
+namespace ERWMS.Infrastructure
 {
     public class WeatherForecast
     {

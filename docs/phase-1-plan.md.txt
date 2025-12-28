@@ -1,0 +1,25 @@
+# ERWMS+ – Phase 1 Plan
+
+## Goal
+Build a multi-tenant enterprise backbone with professional engineering practices.
+
+## In Scope
+- Companies
+- Users & roles
+- Projects
+- Tasks
+- Basic workflow
+- Admin dashboard
+- CI, DB migrations, documentation
+
+## Out of Scope
+- Desktop agent
+- Productivity tracking
+- HR workflows
+- Cloud deployment
+
+## Success Criteria
+- APIs working
+- Clean architecture
+- CI passing
+- Docs updated

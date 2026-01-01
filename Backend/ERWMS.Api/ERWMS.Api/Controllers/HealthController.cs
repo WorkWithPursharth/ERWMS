@@ -9,12 +9,8 @@ namespace ERWMS.Api.Controllers
 		[HttpGet]
 		public IActionResult Get()
 		{
-			return Ok(new
-			{
-				status = "Healthy",
-				service = "ERWMS.Api",
-				timestamp = DateTime.UtcNow
-			});
+
+			throw new Exception("Test exception");
 		}
 	}
 }
